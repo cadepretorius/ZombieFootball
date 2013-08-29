@@ -3,7 +3,7 @@ ZombieFootball
 
 Zombie Football Game
 
-I am 13 years old and I'm working on a game that's called "Zombie Football!" to help raise funds for a friend of mine that had brain surgery when he was younger.
+I am 13 years old and I'm working on a game using Construct 2 (www.scirra.com) that's called "Zombie Football!" to help raise funds for a friend of mine that had brain surgery when he was younger.
 
 It's really simple at the moment, (trying to keep it under 100 events) if you draw a line the player follows it.
 
